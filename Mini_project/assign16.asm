@@ -1,5 +1,5 @@
 .data
-	A: .word 1,2,1,3
+	A: .word 1,4,3,4
 	Aend: .word       
 	mes1: .asciiz "True"
 	mes2: .asciiz "False"
